@@ -1,5 +1,6 @@
 {
   "name": "my-first-react-app",
+  "homepage": "https://ireoz.github.io/Expense-Tracker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
